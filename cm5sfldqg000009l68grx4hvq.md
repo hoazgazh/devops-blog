@@ -26,6 +26,8 @@ Do một vấn đề bảo mật quan trọng, nhóm DevOps được yêu cầu 
 
 ## Giải Pháp
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736614822893/431fe8af-be06-442e-815a-c75429ad7739.jpeg align="center")
+
 Để đổi tên một CloudFormation stack mà không xóa các tài nguyên, bạn có thể sử dụng thuộc tính `DeletionPolicy` với giá trị `Retain`. Dưới đây là các bước chi tiết để thực hiện:
 
 ### Bước 1: Triển Khai Stack Mới với Chính Sách Retain
