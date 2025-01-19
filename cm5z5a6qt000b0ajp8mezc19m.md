@@ -1,10 +1,10 @@
 ---
-title: "Chiến lược multi-account AWS cho digital bank"
-seoTitle: "AWS Multi-Account Strategies for Digital Banks"
-seoDescription: "Hướng dẫn chi tiết triển khai chiến lược multi-account AWS cho ngân hàng số, tối ưu bảo mật, quản trị và khả năng mở rộng công nghệ"
+title: "Mô hình multi-account AWS cho digital bank"
+seoTitle: "AWS Multi-Account Model for Digital Banking"
+seoDescription: "Tìm hiểu cách xây dựng hạ tầng ngân hàng số trên AWS với mô hình multi-account đảm bảo bảo mật, tuân thủ và khả năng mở rộng"
 datePublished: Thu Jan 16 2025 09:45:11 GMT+0000 (Coordinated Universal Time)
 cuid: cm5z5a6qt000b0ajp8mezc19m
-slug: chien-luoc-multi-account-aws-cho-digital-bank
+slug: mo-hinh-multi-account-aws-cho-digital-bank
 canonical: https://aws.amazon.com/vi/blogs/industries/defining-an-aws-multi-account-strategy-for-a-digital-bank/
 tags: aws, digital-bank
 
